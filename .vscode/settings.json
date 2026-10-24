@@ -1,7 +1,0 @@
-{
-    "git.autoRepositoryDetection": false,
-    "git.scanRepositories": ["git project"],
-    "files.exclude": {
-        "**/.vscode": true
-    }
-}
